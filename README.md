@@ -12,4 +12,4 @@ OpenAI's advanced language processing technology and IBM Watson Embeddable AI. Y
 --------------------------------
 
 ## Skill Learn
-Python, Flask, HTML, CSS, and Javascript
+Text-to-Speech, Chatbots, Speech-To-Text, LLM, Generative AI, Python
